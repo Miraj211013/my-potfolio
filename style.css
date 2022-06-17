@@ -1,0 +1,76 @@
+body{
+    margin: 0px;
+    font-family: 'PT Sans', sans-serif;
+}
+.half-width{
+    width: 25%;
+    float: left;
+    margin: 4% 10%;
+}
+.img-area img {
+    width: 100%;
+}
+.img-area {
+    width: 157%;
+}
+h1.highlight {
+    color: #ff0077ef;
+    font-size: 65px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 48px;
+    margin-bottom: -1px;
+}
+
+p {
+    font-size: 18px;
+    color: #222222c7;
+}
+a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+button {
+    border: none;
+    background: #ff0077ef;
+    padding: 13px;
+    font-size: 14px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    transition-duration: 0.30s;
+    font-family: sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #222222c7;
+}
+.text-div {
+    margin: 10% 10%;
+}
+.top-section {
+    background-image: url(images/header-bg.png);
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.biography {
+    background-image: url(images/biography-bg.png);
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.work-area{
+    width: 25%;
+    float: left;
+    margin: 4% 4%;
+}
+.work-area img {
+    width: 100%;
+}
+
+section.latesk-work h2 {
+    text-align: center;
+}
